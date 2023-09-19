@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/main/AndroidManifest.xml:2:4-17:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/santoshadhikari/.gradle/caches/transforms-3/27bcc23e8be7da14f9349dc11b4ddb28/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/santoshadhikari/.gradle/caches/transforms-3/27bcc23e8be7da14f9349dc11b4ddb28/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] /Users/santoshadhikari/.gradle/caches/transforms-3/f09cae9c20b55d68610e47ece2be7559/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/santoshadhikari/.gradle/caches/transforms-3/f09cae9c20b55d68610e47ece2be7559/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/santoshadhikari/.gradle/caches/transforms-3/66a73b48d96c7ee2d684180017ba60e6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/santoshadhikari/.gradle/caches/transforms-3/66a73b48d96c7ee2d684180017ba60e6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/santoshadhikari/.gradle/caches/transforms-3/f09cae9c20b55d68610e47ece2be7559/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/main/AndroidManifest.xml:1:1-18:12
+INJECTED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/main/AndroidManifest.xml:1:1-18:12
+INJECTED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/main/AndroidManifest.xml:1:1-18:12
+INJECTED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/main/AndroidManifest.xml:1:1-18:12
+MERGED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/main/AndroidManifest.xml:1:1-18:12
+MERGED from [:shared_preferences_android] /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:integration_test] /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/build/integration_test/intermediates/merged_manifest/debug/AndroidManifest.xml:7:1-14:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/santoshadhikari/.gradle/caches/transforms-3/24353df519e453302cef6a21155bdef2/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/santoshadhikari/.gradle/caches/transforms-3/27bcc23e8be7da14f9349dc11b4ddb28/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.test:rules:1.2.0] /Users/santoshadhikari/.gradle/caches/transforms-3/156f4047479f5ca5cb3be67c95a46c98/transformed/rules-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] /Users/santoshadhikari/.gradle/caches/transforms-3/93ed2537ce7a5ceff7c3827121b8d10c/transformed/espresso-core-3.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:runner:1.2.0] /Users/santoshadhikari/.gradle/caches/transforms-3/d6d9f329a3ebece279cbadbec83a75bd/transformed/runner-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/santoshadhikari/.gradle/caches/transforms-3/83cbf3038efe896f50d3e564ee4f5531/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/santoshadhikari/.gradle/caches/transforms-3/d0065950e3fcdebd66cd8afdf4a5e819/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/santoshadhikari/.gradle/caches/transforms-3/884e7050fc15618c5f0bef7ce7881384/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/santoshadhikari/.gradle/caches/transforms-3/54857ea80ea4831cdf91ef94be835898/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/santoshadhikari/.gradle/caches/transforms-3/d53b9a790e0a64e0619696b4a31cd312/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/santoshadhikari/.gradle/caches/transforms-3/f09cae9c20b55d68610e47ece2be7559/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/santoshadhikari/.gradle/caches/transforms-3/2a1ded91c20a58a50018c565940ff74b/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/santoshadhikari/.gradle/caches/transforms-3/ed0a45fd2504da3a8a1e9b72570651fb/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/santoshadhikari/.gradle/caches/transforms-3/a9b036c144026dcbb4bfaee25164e360/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/santoshadhikari/.gradle/caches/transforms-3/e7430803d49945b1c07442799977412e/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/santoshadhikari/.gradle/caches/transforms-3/0413befe35d7ede7eb1381fc94e879f3/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:monitor:1.2.0] /Users/santoshadhikari/.gradle/caches/transforms-3/f48af6aaab32781fbe2ec14282a2c609/transformed/monitor-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/santoshadhikari/.gradle/caches/transforms-3/afb8828174d50ace23a39f338fd6d4ba/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/santoshadhikari/.gradle/caches/transforms-3/66a73b48d96c7ee2d684180017ba60e6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/santoshadhikari/.gradle/caches/transforms-3/3f954535c99d02df338240b20bca6809/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] /Users/santoshadhikari/.gradle/caches/transforms-3/f05480123a4d70216c212e64290ef7a5/transformed/espresso-idling-resource-3.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/santoshadhikari/.gradle/caches/transforms-3/bbe30824ac73ac45d9c45af8c186fa0f/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/main/AndroidManifest.xml:1:70-102
+		INJECTED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/main/AndroidManifest.xml:1:1-18:12
+		INJECTED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/main/AndroidManifest.xml:1:1-18:12
+		INJECTED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/main/AndroidManifest.xml
+MERGED from [:shared_preferences_android] /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:integration_test] /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/build/integration_test/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-12:41
+MERGED from [:integration_test] /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/build/integration_test/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-12:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/santoshadhikari/.gradle/caches/transforms-3/24353df519e453302cef6a21155bdef2/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/santoshadhikari/.gradle/caches/transforms-3/24353df519e453302cef6a21155bdef2/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/santoshadhikari/.gradle/caches/transforms-3/27bcc23e8be7da14f9349dc11b4ddb28/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/santoshadhikari/.gradle/caches/transforms-3/27bcc23e8be7da14f9349dc11b4ddb28/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:rules:1.2.0] /Users/santoshadhikari/.gradle/caches/transforms-3/156f4047479f5ca5cb3be67c95a46c98/transformed/rules-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:rules:1.2.0] /Users/santoshadhikari/.gradle/caches/transforms-3/156f4047479f5ca5cb3be67c95a46c98/transformed/rules-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] /Users/santoshadhikari/.gradle/caches/transforms-3/93ed2537ce7a5ceff7c3827121b8d10c/transformed/espresso-core-3.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] /Users/santoshadhikari/.gradle/caches/transforms-3/93ed2537ce7a5ceff7c3827121b8d10c/transformed/espresso-core-3.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] /Users/santoshadhikari/.gradle/caches/transforms-3/d6d9f329a3ebece279cbadbec83a75bd/transformed/runner-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] /Users/santoshadhikari/.gradle/caches/transforms-3/d6d9f329a3ebece279cbadbec83a75bd/transformed/runner-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/santoshadhikari/.gradle/caches/transforms-3/83cbf3038efe896f50d3e564ee4f5531/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/santoshadhikari/.gradle/caches/transforms-3/83cbf3038efe896f50d3e564ee4f5531/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/santoshadhikari/.gradle/caches/transforms-3/d0065950e3fcdebd66cd8afdf4a5e819/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/santoshadhikari/.gradle/caches/transforms-3/d0065950e3fcdebd66cd8afdf4a5e819/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/santoshadhikari/.gradle/caches/transforms-3/884e7050fc15618c5f0bef7ce7881384/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/santoshadhikari/.gradle/caches/transforms-3/884e7050fc15618c5f0bef7ce7881384/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/santoshadhikari/.gradle/caches/transforms-3/54857ea80ea4831cdf91ef94be835898/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/santoshadhikari/.gradle/caches/transforms-3/54857ea80ea4831cdf91ef94be835898/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/santoshadhikari/.gradle/caches/transforms-3/d53b9a790e0a64e0619696b4a31cd312/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/santoshadhikari/.gradle/caches/transforms-3/d53b9a790e0a64e0619696b4a31cd312/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/santoshadhikari/.gradle/caches/transforms-3/f09cae9c20b55d68610e47ece2be7559/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/santoshadhikari/.gradle/caches/transforms-3/f09cae9c20b55d68610e47ece2be7559/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/santoshadhikari/.gradle/caches/transforms-3/2a1ded91c20a58a50018c565940ff74b/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/santoshadhikari/.gradle/caches/transforms-3/2a1ded91c20a58a50018c565940ff74b/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/santoshadhikari/.gradle/caches/transforms-3/ed0a45fd2504da3a8a1e9b72570651fb/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/santoshadhikari/.gradle/caches/transforms-3/ed0a45fd2504da3a8a1e9b72570651fb/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/santoshadhikari/.gradle/caches/transforms-3/a9b036c144026dcbb4bfaee25164e360/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/santoshadhikari/.gradle/caches/transforms-3/a9b036c144026dcbb4bfaee25164e360/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/santoshadhikari/.gradle/caches/transforms-3/e7430803d49945b1c07442799977412e/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/santoshadhikari/.gradle/caches/transforms-3/e7430803d49945b1c07442799977412e/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/santoshadhikari/.gradle/caches/transforms-3/0413befe35d7ede7eb1381fc94e879f3/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/santoshadhikari/.gradle/caches/transforms-3/0413befe35d7ede7eb1381fc94e879f3/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.2.0] /Users/santoshadhikari/.gradle/caches/transforms-3/f48af6aaab32781fbe2ec14282a2c609/transformed/monitor-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.2.0] /Users/santoshadhikari/.gradle/caches/transforms-3/f48af6aaab32781fbe2ec14282a2c609/transformed/monitor-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/santoshadhikari/.gradle/caches/transforms-3/afb8828174d50ace23a39f338fd6d4ba/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/santoshadhikari/.gradle/caches/transforms-3/afb8828174d50ace23a39f338fd6d4ba/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/santoshadhikari/.gradle/caches/transforms-3/66a73b48d96c7ee2d684180017ba60e6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/santoshadhikari/.gradle/caches/transforms-3/66a73b48d96c7ee2d684180017ba60e6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/santoshadhikari/.gradle/caches/transforms-3/3f954535c99d02df338240b20bca6809/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/santoshadhikari/.gradle/caches/transforms-3/3f954535c99d02df338240b20bca6809/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] /Users/santoshadhikari/.gradle/caches/transforms-3/f05480123a4d70216c212e64290ef7a5/transformed/espresso-idling-resource-3.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] /Users/santoshadhikari/.gradle/caches/transforms-3/f05480123a4d70216c212e64290ef7a5/transformed/espresso-idling-resource-3.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/santoshadhikari/.gradle/caches/transforms-3/bbe30824ac73ac45d9c45af8c186fa0f/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/santoshadhikari/.gradle/caches/transforms-3/bbe30824ac73ac45d9c45af8c186fa0f/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/santoshadhikari/.gradle/caches/transforms-3/27bcc23e8be7da14f9349dc11b4ddb28/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/santoshadhikari/.gradle/caches/transforms-3/27bcc23e8be7da14f9349dc11b4ddb28/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/santoshadhikari/.gradle/caches/transforms-3/27bcc23e8be7da14f9349dc11b4ddb28/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/santoshadhikari/.gradle/caches/transforms-3/27bcc23e8be7da14f9349dc11b4ddb28/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/santoshadhikari/.gradle/caches/transforms-3/27bcc23e8be7da14f9349dc11b4ddb28/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/santoshadhikari/.gradle/caches/transforms-3/27bcc23e8be7da14f9349dc11b4ddb28/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51

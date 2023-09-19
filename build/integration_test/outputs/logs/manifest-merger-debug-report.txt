@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/santoshadhikari/developer/flutter/packages/integration_test/android/src/main/AndroidManifest.xml:5:1-7:12
+INJECTED from /Users/santoshadhikari/developer/flutter/packages/integration_test/android/src/main/AndroidManifest.xml:5:1-7:12
+INJECTED from /Users/santoshadhikari/developer/flutter/packages/integration_test/android/src/main/AndroidManifest.xml:5:1-7:12
+	package
+		ADDED from /Users/santoshadhikari/developer/flutter/packages/integration_test/android/src/main/AndroidManifest.xml:6:3-41
+		INJECTED from /Users/santoshadhikari/developer/flutter/packages/integration_test/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/santoshadhikari/developer/flutter/packages/integration_test/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/santoshadhikari/developer/flutter/packages/integration_test/android/src/main/AndroidManifest.xml:5:11-69
+uses-sdk
+INJECTED from /Users/santoshadhikari/developer/flutter/packages/integration_test/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/santoshadhikari/developer/flutter/packages/integration_test/android/src/main/AndroidManifest.xml
+INJECTED from /Users/santoshadhikari/developer/flutter/packages/integration_test/android/src/main/AndroidManifest.xml
+INJECTED from /Users/santoshadhikari/developer/flutter/packages/integration_test/android/src/main/AndroidManifest.xml
+INJECTED from /Users/santoshadhikari/developer/flutter/packages/integration_test/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/santoshadhikari/developer/flutter/packages/integration_test/android/src/main/AndroidManifest.xml
+		ADDED from /Users/santoshadhikari/developer/flutter/packages/integration_test/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/santoshadhikari/developer/flutter/packages/integration_test/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/santoshadhikari/developer/flutter/packages/integration_test/android/src/main/AndroidManifest.xml
+		ADDED from /Users/santoshadhikari/developer/flutter/packages/integration_test/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/santoshadhikari/developer/flutter/packages/integration_test/android/src/main/AndroidManifest.xml

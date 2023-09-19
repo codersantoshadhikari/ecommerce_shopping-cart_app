@@ -1,0 +1,14 @@
+com.aasharef.ecommerce.app-jetified-window-java-1.0.0-beta04-0 /Users/santoshadhikari/.gradle/caches/transforms-3/24353df519e453302cef6a21155bdef2/transformed/jetified-window-java-1.0.0-beta04/res
+com.aasharef.ecommerce.app-jetified-window-1.0.0-beta04-1 /Users/santoshadhikari/.gradle/caches/transforms-3/27bcc23e8be7da14f9349dc11b4ddb28/transformed/jetified-window-1.0.0-beta04/res
+com.aasharef.ecommerce.app-jetified-annotation-experimental-1.1.0-2 /Users/santoshadhikari/.gradle/caches/transforms-3/bbe30824ac73ac45d9c45af8c186fa0f/transformed/jetified-annotation-experimental-1.1.0/res
+com.aasharef.ecommerce.app-core-1.6.0-3 /Users/santoshadhikari/.gradle/caches/transforms-3/f09cae9c20b55d68610e47ece2be7559/transformed/core-1.6.0/res
+com.aasharef.ecommerce.app-debug-4 /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/debug/res
+com.aasharef.ecommerce.app-main-5 /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/android/app/src/main/res
+com.aasharef.ecommerce.app-pngs-6 /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/build/app/generated/res/pngs/debug
+com.aasharef.ecommerce.app-resValues-7 /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/build/app/generated/res/resValues/debug
+com.aasharef.ecommerce.app-rs-8 /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/build/app/generated/res/rs/debug
+com.aasharef.ecommerce.app-mergeDebugResources-9 /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.aasharef.ecommerce.app-mergeDebugResources-10 /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.aasharef.ecommerce.app-merged_res-11 /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/build/app/intermediates/merged_res/debug
+com.aasharef.ecommerce.app-packaged_res-12 /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/build/integration_test/intermediates/packaged_res/debug
+com.aasharef.ecommerce.app-packaged_res-13 /Users/santoshadhikari/Desktop/E-commerce_clean_architecture-main/build/shared_preferences_android/intermediates/packaged_res/debug

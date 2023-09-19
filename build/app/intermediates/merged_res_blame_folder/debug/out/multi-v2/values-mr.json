@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.aasharef.ecommerce.app-mergeDebugResources-9:/values-mr/values-mr.xml",
+            "map": [
+                {
+                    "source": "/Users/santoshadhikari/.gradle/caches/transforms-3/f09cae9c20b55d68610e47ece2be7559/transformed/core-1.6.0/res/values-mr/values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.aasharef.ecommerce.app-merged_res-11:/mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "com.aasharef.ecommerce.app-main-5:/mipmap-xxxhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.aasharef.ecommerce.app-merged_res-11:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.aasharef.ecommerce.app-main-5:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.aasharef.ecommerce.app-merged_res-11:/mipmap-mdpi_app_icon.png.flat",
+        "source": "com.aasharef.ecommerce.app-main-5:/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "com.aasharef.ecommerce.app-merged_res-11:/mipmap-xxhdpi_app_icon.png.flat",
+        "source": "com.aasharef.ecommerce.app-main-5:/mipmap-xxhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.aasharef.ecommerce.app-merged_res-11:/mipmap-xhdpi_app_icon.png.flat",
+        "source": "com.aasharef.ecommerce.app-main-5:/mipmap-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.aasharef.ecommerce.app-merged_res-11:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.aasharef.ecommerce.app-main-5:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.aasharef.ecommerce.app-merged_res-11:/drawable-v21_launch_background.xml.flat",
+        "source": "com.aasharef.ecommerce.app-main-5:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.aasharef.ecommerce.app-merged_res-11:/mipmap-hdpi_app_icon.png.flat",
+        "source": "com.aasharef.ecommerce.app-main-5:/mipmap-hdpi/app_icon.png"
+    },
+    {
+        "merged": "com.aasharef.ecommerce.app-merged_res-11:/drawable-xxxhdpi_app_icon.png.flat",
+        "source": "com.aasharef.ecommerce.app-main-5:/drawable-xxxhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.aasharef.ecommerce.app-merged_res-11:/drawable-xxhdpi_app_icon.png.flat",
+        "source": "com.aasharef.ecommerce.app-main-5:/drawable-xxhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.aasharef.ecommerce.app-merged_res-11:/drawable-xhdpi_app_icon.png.flat",
+        "source": "com.aasharef.ecommerce.app-main-5:/drawable-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.aasharef.ecommerce.app-merged_res-11:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.aasharef.ecommerce.app-main-5:/drawable-mdpi/ic_launcher_foreground.png"
+    }
+]
